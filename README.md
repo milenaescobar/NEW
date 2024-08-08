@@ -1,4 +1,4 @@
-#Ejercicio 2 de Git y Github
+#Ejercicio 2 de Git y Github#
 
 Este es un ejercicio que hemos hecho para crear un repositorio utilizando **Visual Studio Code**
 
